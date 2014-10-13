@@ -1,1 +1,1 @@
-web: deploygo
+web: markdown-generator
